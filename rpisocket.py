@@ -1,3 +1,11 @@
+#!/RPISOCKET/bin/python3
+
+#find the ipadress either using ifconfig 
+#or hostname = socket.gethostname()
+#ip_address = socket.gethostbyname(hostname)
+
+
+
 import socket
 
 
